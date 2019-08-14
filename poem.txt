@@ -1,6 +1,4 @@
-This is my first ever poem on github
-guess that goes all right
-picking the colors now
+
 red
 pink
 whit
