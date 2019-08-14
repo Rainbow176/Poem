@@ -6,3 +6,5 @@ pink
 whit
 walk
 range
+sing
+dance
